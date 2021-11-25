@@ -1,0 +1,1 @@
+# parcel-resolver-webpack-magic-string-require
